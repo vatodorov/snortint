@@ -1,0 +1,5 @@
+.DS_Store
+.idea/*
+alert_json_reduced.txt
+alert_json_reduced_small.txt
+snort_log_mod.txt
